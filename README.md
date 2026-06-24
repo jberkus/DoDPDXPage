@@ -1,8 +1,6 @@
-# DevOpsDays PDX 2026
-September 8-10 2026, Portland, OR
-[More info on the DevOpsDays Site](https://devopsdays.org/events/2026-portland-or/welcome/)
-
 # DevOpsDays is Back In Portland!
+
+[More info on the DevOpsDays Site](https://devopsdays.org/events/2026-portland-or/welcome/)
 
 ![DevOpsDays PDX 2026 Logo](/devopsdayspdx_logo_2026.png)
 
